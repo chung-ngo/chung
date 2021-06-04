@@ -1,6 +1,6 @@
 const CONFIG = {
-    introTitle: 'Bỏ đt xuống',
-    introDesc: `ngủ gì ngủ không ^^^^ dậy đê`,
+    introTitle: 'hiii^^^^ chào bn',
+    introDesc: `cấm ngủ nghe chưa ^^^^ tỉnh táo lên`,
     btnIntro: 'hihi',
     title: 'bạn là con mẹ cám đúng không 😙',
     desc: 'đúng rồi vì bn ác hơn con cám ',
