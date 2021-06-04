@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'ác hơn con cám',
     mess: 'toii biết mà 🥰 ác thế còn kêu',
     messDesc: 'lo mà liệu đối tốt với chung đi nghe chưa.',
-    btnAccept: 'Okiiiii lun ''để nt liền''',
+    btnAccept: 'Okiiiii lun để nt liền',
     messLink: 'https://www.facebook.com/profile.php?id=100018508961321' 
 }
